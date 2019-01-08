@@ -13,7 +13,7 @@
 		<key>TISInputSourceID</key>
 		<string>com.apple.keyboardlayout.Programmer Dvorak.programmerdvorak</string>
 		<key>TISIntendedLanguage</key>
-		<string>en</string>
+		<string>en-US</string>
 	</dict>
 	<key>KLInfo_Russian - Programmer Dvorak ⌘</key>
 	<dict>
